@@ -1,0 +1,13 @@
+# Ignore all
+/*
+
+# Whitelisted
+!/.gitignore
+!/index.php
+!/README.md
+
+# Whitelisted themes
+!/twentytwentythree
+!/twentytwentythree-starter
+!/twentytwentytwo
+!/twentytwentytwo-starter
