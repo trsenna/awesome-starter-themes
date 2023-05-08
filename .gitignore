@@ -4,6 +4,7 @@
 # Whitelisted
 !/.gitignore
 !/index.php
+!/Makefile
 !/README.md
 
 # Whitelisted themes
